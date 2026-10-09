@@ -3,10 +3,8 @@
 **Two-stage Bayesian single-cell TE quantification at transcriptional-unit resolution**
 
 scTEQuant is a Bayesian pipeline for quantifying viral and transposable-element
-transcription from single-cell and bulk RNA-seq. It extends genome-wide
-coverage roughly 280-fold beyond the ceiling where existing methods become
-computationally intractable, while improving accuracy on repetitive and
-virus-derived loci.
+transcription from single-cell, bulk, and spatial RNA-seq, at
+transcriptional-unit resolution.
 
 ## Status
 
